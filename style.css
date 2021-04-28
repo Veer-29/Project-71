@@ -1,0 +1,125 @@
+.collapse navbar-collapse{
+    position: sticky;
+    top:0;
+    z-index: 99999;
+}
+
+#School-name{
+    text-align: center;
+    width: 100%;
+    font-family: Algerian;
+    text-decoration-color: white;
+    background: linear-gradient( #f018d7 0%,#90CAF9 100%);
+    border-radius: 50px;
+}
+
+#video{
+    width: 200;
+    height: 200;
+    text-align: center;
+}
+
+#details{
+    text-align: center;
+}
+
+.mynav{
+    position: sticky;
+    top:0;
+    z-index: 99999;
+}
+
+contact_1 h3
+{
+    display: inline;
+}
+
+.h1{
+    font-family:inherit;
+}
+
+.h2{
+    font-family:inherit;
+}
+
+#contact-us{
+    background: linear-gradient(#fceb03 0%,#fc2c03 100%);
+    border-radius: 50px;
+    
+}
+
+.row::after{
+    content: "";
+    clear: both;
+    display: table;
+    
+}
+.travel1_mainDiv{
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    border:2px solid #c7c7c7; 
+}   
+.travel1_mainDiv img{
+    width: 100%;
+    height: 300px;
+}
+.travel1_mainDiv hr{
+    width: 100%;
+}
+.travel1_mainDiv h5,.travel1_mainDiv p{
+    margin-left: 20px;
+    }
+#achievementsID{
+    padding-bottom: 10px;
+}
+#Achievements{
+    background: linear-gradient(#458bf5 0%,#90CAF9 100%);
+    border-radius: 20px;
+    padding-bottom: 10px;
+
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: #ff7700;
+}
+#Campus-life{
+    background: linear-gradient(#8cfc03 0%,#fcf403 100%);
+    border-radius: 50px;
+    width: 100%;
+}
+#What’s-New{
+    background: linear-gradient(#8cfc03 0%,#fcf403 100%);
+     border-radius: 50px;
+}
+#Alumni{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 50px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    background: linear-gradient( #f018d7 0%,#90CAF9 100%);
+}
+#footer{
+    height:20px;
+    background-color: white;
+}
+.img{
+    height: 200px;
+    width: 200px;
+}
+.img1{
+    height: 300px;
+    width: 300px;
+}
